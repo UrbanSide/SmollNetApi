@@ -1,0 +1,6 @@
+{
+  "multiplayer": "api.smoll.net/servers",
+  "auth": "api.smoll.net/auth",
+  "mods": "api.smoll.net",
+  "updater": "api.smoll.net"
+}
