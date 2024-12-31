@@ -1,6 +1,6 @@
 {
-  "multiplayer": "api.smoll.net/servers",
-  "auth": "api.smoll.net/auth",
-  "mods": "api.smoll.net",
-  "updater": "api.smoll.net"
+  "multiplayer": "93.100.102.56:3000/servers",
+  "auth": "93.100.102.56:3000/auth",
+  "mods": "93.100.102.56:3000",
+  "updater": "93.100.102.56:3000"
 }
