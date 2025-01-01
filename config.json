@@ -1,6 +1,6 @@
 {
-  "multiplayer": "elegant-turkey-classic.ngrok-free.app/servers",
-  "auth": "elegant-turkey-classic.ngrok-free.app/auth",
-  "mods": "elegant-turkey-classic.ngrok-free.app",
-  "updater": "elegant-turkey-classic.ngrok-free.app"
+  "multiplayer": "api.unfoa.ru/servers",
+  "auth": "api.unfoa.ru/auth",
+  "mods": "api.unfoa.ru",
+  "updater": "api.unfoa.ru"
 }
