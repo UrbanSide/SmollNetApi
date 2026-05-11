@@ -1,6 +1,6 @@
 {
-  "multiplayer": "api.unfoa.ru/servers",
-  "auth": "api.unfoa.ru/auth",
-  "mods": "api.unfoa.ru",
-  "updater": "api.unfoa.ru"
+  "multiplayer": "factorio.fpzone.ru/servers",
+  "auth": "factorio.fpzone.ru/auth",
+  "mods": "factorio.fpzone.ru",
+  "updater": "factorio.fpzone.ru"
 }
